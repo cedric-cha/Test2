@@ -1,3 +1,4 @@
 <?php
-    echo'Dany';
+    $carotte=2;
+    echo $carotte;
 ?>
