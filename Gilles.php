@@ -1,3 +1,3 @@
 <?php
-$lettre: 'blabla' ;
+$lettre: 'oshvfhgf' ;
 ?>
